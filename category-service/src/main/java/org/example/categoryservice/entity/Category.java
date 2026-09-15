@@ -18,6 +18,10 @@ public class Category {
         this.name=name;
     }
 
+    public Category() {
+
+    }
+
     public void setId(Long id) {
         this.id = id;
     }
